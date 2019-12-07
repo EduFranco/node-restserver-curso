@@ -1,4 +1,4 @@
 ## Rest Server
-´´´
+```
 npm install
-´´´
+```
